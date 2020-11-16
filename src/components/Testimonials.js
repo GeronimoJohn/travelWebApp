@@ -43,7 +43,7 @@ const Testimonials = () => {
             />
             <h3>Jeff Michaels</h3>
             <p>
-              "The greatest experience in my life is when I tried hiking at one
+              "The greatest experience in my life is when I went hiking at one
               of the recommended places by TravelNZ!"
             </p>
           </Testimonial>
@@ -57,8 +57,8 @@ const Testimonials = () => {
             />
             <h3>Sarah Welsh</h3>
             <p>
-              "The greatest experience in my life is when I tried hiking at one
-              of the recommended places by TravelNZ!"
+              "Hobbiton is such a great place to be at! Being at the place where
+              one of my favourite show was recorded at was simply astonishing"
             </p>
           </Testimonial>
         </ColumnOne>
