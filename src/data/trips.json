@@ -1,0 +1,26 @@
+[
+    {
+        "img": "../assets/images/aucklandCity.jpg",
+        "alt": "Auckland City",
+        "name": "Auckland City",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/hobbiton.jpg",
+        "alt": "Hobitton",
+        "name": "Hobitton",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/Piha.jpg",
+        "alt": "Piha",
+        "name": "Piha Beach",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/rangitotoHike.jpg",
+        "alt": "Rangitoto Hike",
+        "name": "Rangitoto Hike",
+        "button": "View Destination"
+    }
+]

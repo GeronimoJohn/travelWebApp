@@ -12,7 +12,7 @@ const Hero = () => {
       <HeroContent>
         <HeroItems>
           <HeroH1>Explore New Zealand</HeroH1>
-          <HeroP>View the beauty of New Zealand</HeroP>
+          <HeroP>View the beauty of Aotearoa</HeroP>
           <Button primary="true" big="true" round="true" to="/trips">
             Travel Now
           </Button>

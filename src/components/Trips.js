@@ -18,5 +18,10 @@ const ProductsContainer = styled.div`
   background: #fff;
   color: #fff;
 `
-const ProductsHeading = styled.div``
+const ProductsHeading = styled.div`
+  font-size: clamp(1.2rem, 5vw, 3rem);
+  text-align: center;
+  margin-bottom: 5rem;
+  color: #000;
+`
 const ProductWrapper = styled.div``
